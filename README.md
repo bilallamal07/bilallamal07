@@ -1,6 +1,6 @@
 # 💫 About Me
 
-### Hi there 👋 I'm Jamal, an Independent AI Architect focused on Agentic AI Engineering & Adoption.
+### Hi there 👋 I'm Jamal, an Independent AI Architect | Securing Agentic AI Systems.
 
 I design and build agent harnesses, MCP integrations and multi-agent workflows in Python, for client work and my own projects. My background is in cyber defence, so security is built in from the start.
 
