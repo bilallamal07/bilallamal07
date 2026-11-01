@@ -9,6 +9,7 @@ My focus is on building reliable agentic AI systems and identifying vulnerabilit
 Throughout my cybersecurity career, I have investigated threats for national and international clients, developing a deep understanding of attacker techniques, security risks, and effective defensive strategies. I now apply that experience to securing AI systems.
 
 My work spans agent harness engineering, MCP integrations, multi-agent orchestration, and AI workflow automation. I take systems beyond proof-of-concept demonstrations and prepare them for production use, with an emphasis on the following
+
 	•	Security and privacy  
 	•	Reliability and safety  
 	•	Scalability  
