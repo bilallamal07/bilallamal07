@@ -2,7 +2,10 @@
 
 ### Hi there 👋 I'm Jamal, an Independent AI Security Architect | Securing Agentic Systems & Cyber Defense.
 
-I design and build agent harnesses, MCP integrations and multi-agent workflows in Python, for client work and my own projects. My background is in cyber defence, so security is built in from the start.
+I design and construct agent harnesses, MCP integrations, and multi-agent workflows in Python for client work and personal projects. My background in cyber defence means security is integrated from the outset.  
+I develop agentic AI systems and test them for vulnerabilities before others can exploit them.  
+Over ten years in defensive cybersecurity, I investigated threats for national and international clients. That experience revealed how attackers operate and how to block them, a perspective I now apply to AI.  
+My work covers agent harness engineering, MCP integrations, and AI workflow automation. I move systems past the working demo into production. I protect agents and their environments using guardrails, scoped permissions, and human approval for risky actions, since security added late rarely lasts.
 
 <a href="https://flowlite.org" target="_blank"><img height="30" alt="Website" src="https://img.shields.io/badge/flowlite.org-0EA5E9?logo=googlechrome&logoColor=white&style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/dzerrouki" target="_blank"><img height="30" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge"/></a>
