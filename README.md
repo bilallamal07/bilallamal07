@@ -2,10 +2,15 @@
 
 ### Hi there 👋 I'm Jamal, an Independent AI Security Architect | Securing Agentic Systems & Cyber Defense.
 
-I design and construct agent harnesses, MCP integrations, and multi-agent workflows in Python for client work and personal projects. My background in cyber defence means security is integrated from the outset.  
-I develop agentic AI systems and test them for vulnerabilities before others can exploit them.  
-Over ten years in defensive cybersecurity, I investigated threats for national and international clients. That experience revealed how attackers operate and how to block them, a perspective I now apply to AI.  
-My work covers agent harness engineering, MCP integrations, and AI workflow automation. I move systems past the working demo into production. I protect agents and their environments using guardrails, scoped permissions, and human approval for risky actions, since security added late rarely lasts.
+I design and build agent harnesses, MCP integrations, and multi-agent workflows in Python for client engagements and personal projects. With over a decade of experience in defensive cybersecurity, I integrate security into every stage of development.
+
+My focus is on building reliable agentic AI systems and identifying vulnerabilities before they can be exploited.
+
+Throughout my cybersecurity career, I have investigated threats for national and international clients, developing a deep understanding of attacker techniques, security risks, and effective defensive strategies. I now apply that experience to securing AI systems.
+
+My work spans agent harness engineering, MCP integrations, multi-agent orchestration, and AI workflow automation. I take systems beyond proof-of-concept demonstrations and prepare them for production use, with an emphasis on reliability, security, and maintainability.
+
+I protect AI agents and their operating environments through robust guardrails, least-privilege permissions, controlled tool access, and human approval for high-risk actions. My approach is simple: **security should be built into AI systems from the beginning, not added as an afterthought.**
 
 <a href="https://flowlite.org" target="_blank"><img height="30" alt="Website" src="https://img.shields.io/badge/flowlite.org-0EA5E9?logo=googlechrome&logoColor=white&style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/dzerrouki" target="_blank"><img height="30" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge"/></a>
